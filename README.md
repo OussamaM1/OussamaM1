@@ -21,15 +21,9 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://badges.pufler.dev/visits/oussamam1/oussamam1">
-    <img src="https://badges.pufler.dev/visits/oussamam1/oussamam1?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev/years/oussamam1">
-    <img src="https://badges.pufler.dev/years/oussamam1?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev/repos/oussamam1">
-    <img src="https://badges.pufler.dev/repos/oussamam1?style=flat-square&color=blue&logo=github">
-  </a>
+    <img src="https://badges.pufler.dev/visits/oussamam1/oussamam1">
+    <img src="https://badges.pufler.dev/years/oussamam1">
+    <img src="https://badges.pufler.dev/repos/oussamam1">
 </p>
 
 
