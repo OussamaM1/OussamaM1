@@ -22,13 +22,13 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://badges.pufler.dev/visits/oussamam1/oussamam1">
-    <img src="https://badges.pufler.dev/visits/oussamam1/oussamam1?style=flat-square&color=blue&logo=github" alt="Visits Badge">
+    <img src="https://badges.pufler.dev/visits/oussamam1/oussamam1?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
   </a>
   <a href="https://badges.pufler.dev/years/oussamam1">
-    <img src="https://badges.pufler.dev/years/oussamam1?style=flat-square&color=blue&logo=github" alt="Years">
+    <img src="https://badges.pufler.dev/years/oussamam1?style=flat-square&color=blue&logo=github?1" alt="Years">
   </a>
   <a href="https://badges.pufler.dev/repos/oussamam1">
-    <img src="https://badges.pufler.dev/repos/oussamam1?style=flat-square&color=blue&logo=github" alt="Repos">
+    <img src="https://badges.pufler.dev/repos/oussamam1?style=flat-square&color=blue&logo=github?1" alt="Repos">
   </a>
 </p>
 
