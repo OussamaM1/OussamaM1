@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <a href= "https://www.instagram.com/oussama_makh1/">
-    <img src="https://img.icons8.com/ios-glyphs/30/3498DB/instagram-new.png" width="28px"/>
-  </a>
-  &emsp;
   <a href="https://www.linkedin.com/in/oussama-makhlouk/">
     <img src="https://img.icons8.com/ios-filled/256/3498DB/linkedin.svg" width="26px"/>
   </a>
