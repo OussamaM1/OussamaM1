@@ -7,16 +7,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/oussama-makhlouk/">
-    <img src="https://img.icons8.com/ios-filled/256/3498DB/linkedin.svg" width="26px"/>
-  </a>
-  &emsp;
-  <a href="https://twitter.com/OMakhlouk">
-    <img src="https://img.icons8.com/android/24/3498DB/twitter.png" width="26px"/>
-  </a>
-  <br><br>
-  <strong>Check out my work below!</strong>
-  <br><br>
+    <a href="https://github.com/oussamaM1" target="_blank">
+      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    </a> 
+    <a href="https://twitter.com/OMakhlouk" target="_blank">
+      <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    </a> 
+    <a href="https://www.linkedin.com/in/oussama-makhlouk" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a> 
+    <a href="https://www.hackerrank.com/OussamaMakhlouk" target="_blank">
+      <img alt="Hackerrank" src="https://img.shields.io/badge/Hackerrank-NA94B.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />
+    </a>
+</p>
+<p align="center">
   <a href="https://badges.pufler.dev/visits/oussamam1/oussamam1">
     <img src="https://badges.pufler.dev/visits/oussamam1/oussamam1?style=flat-square&color=blue&logo=github?1" alt="Visits Badge">
   </a>
