@@ -16,6 +16,9 @@
     <a href="https://leetcode.com/OussamaM1/" target="_blank">
       <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FE7A16?&style=for-the-badge&logo=LeetCode&logoColor=white" />
     </a>
+  <a target="_top" href="mailto:makhloukoussama1@gmail.com" target="_blank">
+      <img alt="Gmail" src="https://img.shields.io/badge/gmail-f44336?&style=for-the-badge&logo=Gmail&logoColor=white" />
+    </a>
 </p>
 
 ## 📊 Github stats
