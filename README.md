@@ -5,10 +5,7 @@ Oussama Makhlouk, currently software engineer @ Oracle, with a passion for datab
 <p align="center">
   <a href="https://stackoverflow.com/users/15061745/oussama-makhlouk" target="_blank">
       <img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-E34F26?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
-    </a> 
-    <a href="https://twitter.com/OMakhlouk" target="_blank">
-      <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-    </a> 
+    </a>
     <a href="https://www.linkedin.com/in/oussama-makhlouk" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a> 
